@@ -1,0 +1,77 @@
+:root {
+    --primary-blue-700: #006b86;
+    --primary-blue-600: #0082a3;
+    --primary-blue-500: #2e99b4;
+    --primary-blue-400: #5cafc4;
+    --primary-blue-300: #8ac6d5;
+    --primary-blue-200: #b8dce5;
+    --primary-blue-100: #e6f3f6;
+
+    --primary-orange-700: #c94e10;
+    --primary-orange-600: #f55f14;
+    --primary-orange-500: #f77c3e;
+    --primary-orange-400: #f99969;
+    --primary-orange-300: #fab593;
+    --primary-orange-200: #fcd2bd;
+    --primary-orange-100: #feefe8;
+
+    --secondary-purple-700: #934bd1;
+    --secondary-purple-600: #b35cff;
+    --secondary-purple-500: #c179ff;
+    --secondary-purple-400: #ce97ff;
+    --secondary-purple-300: #dcb4ff;
+    --secondary-purple-200: #ead1ff;
+    --secondary-purple-100: #f7efff;
+
+    --secondary-red-700: #d13a59;
+    --secondary-red-600: #ff476c;
+    --secondary-red-500: #ff6886;
+    --secondary-red-400: #ff89a1;
+    --secondary-red-300: #ffaabb;
+    --secondary-red-200: #ffcbd6;
+    --secondary-red-100: #ffedf0;
+
+    --secondary-yellow-700: #c99810;
+    --secondary-yellow-600: #e6ab09;
+    --secondary-yellow-500: #f7c63e;
+    --secondary-yellow-400: #f9d269;
+    --secondary-yellow-300: #ffd86c;
+    --secondary-yellow-200: #fcebbd;
+    --secondary-yellow-100: #fef8e8;
+
+    --secondary-green-700: #1e9a60;
+    --secondary-green-600: #24bc75;
+    --secondary-green-500: #4bc88e;
+    --secondary-green-400: #73d4a7;
+    --secondary-green-300: #9ae0c0;
+    --secondary-green-200: #c2ecd8;
+    --secondary-green-100: #e9f8f1;
+
+    --basic-neutral-700: #313435;
+    --basic-neutral-600: #565959;
+    --basic-neutral-500: #42494d;
+    --basic-neutral-400: #7b8082;
+    --basic-neutral-300: #b3b6b8;
+    --basic-neutral-200: #eaebeb;
+    --basic-neutral-100: #ffffff;
+
+    --links: #00708e;
+    --title: #00708e;
+    --background-color-right-side: #00708e; /* #00708e; */
+    --background-basic-grey: #f7f8f8;
+    --text: #3a3a3a;
+    --error: #f1453d;
+
+    --facebook: #3c5a96;
+    --google: #ffffff;
+
+    /*buttons*/
+    --inactive-button: #d8dde6;
+    --active-button: #f58220;
+
+    /*inputs & form*/
+    --focussed-input: #0e708d;
+    --hover-input: #222;
+    --border-form: #8f9bb3;
+    --placeholder: #8f9bb3;
+}

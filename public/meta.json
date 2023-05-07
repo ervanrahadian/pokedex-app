@@ -1,0 +1,85 @@
+{
+    "name": "rey-web",
+    "plugins": [
+        {
+            "name": "CSS / styled-jsx",
+            "description": "Next.js comes with built-in support for CSS and styled-jsx. Styled-jsx is full, scoped and component-friendly CSS support for JSX (rendered on the server or the client).",
+            "url": "https://github.com/vercel/styled-jsx"
+        },
+        {
+            "name": "Fetch",
+            "description": "Next.js has a built-in polyfill for the fetch API. You don't need to worry about using it on either server or client side.",
+            "url": "https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API"
+        },
+        {
+            "name": "Storybook",
+            "description": "Storybook is an open source tool for developing UI components in isolation for React, Vue, Angular, and more. It makes building stunning UIs organized and efficient.",
+            "url": "https://storybook.js.org/docs/react/get-started/introduction"
+        },
+        {
+            "name": "SVGR",
+            "description": "Transform SVGs into React components.",
+            "url": "https://react-svgr.com/docs/getting-started/"
+        },
+        {
+            "name": "Environment Variables",
+            "description": "Use environment variables in your next.js project for server side, client or both.",
+            "url": "https://github.com/vercel/next.js/tree/canary/examples/environment-variables"
+        },
+        {
+            "name": "Bundle Analyzer",
+            "description": "Use webpack-bundle-analyzer in your Next.js project. Visualize size of webpack output files with an interactive zoomable treemap.",
+            "url": "https://github.com/vercel/next.js/tree/canary/packages/next-bundle-analyzer"
+        },
+        {
+            "name": "react-use",
+            "description": "A Collection of useful React hooks.",
+            "url": "https://github.com/streamich/react-use"
+        },
+        {
+            "name": "React Redux",
+            "description": "Redux helps you write applications that behave consistently, run in different environments (client, server, and native), and are easy to test.",
+            "url": "https://redux.js.org/introduction/getting-started"
+        },
+        {
+            "name": "next-translate",
+            "description": "Tiny and powerful i18n tools (Next plugin + API) to translate your Next.js pages.",
+            "url": "https://github.com/vinissimus/next-translate"
+        },
+        {
+            "name": "ESLint",
+            "description": "A pluggable and configurable linter tool for identifying and reporting on patterns in JavaScript. Maintain your code quality with ease.",
+            "url": "https://eslint.org/docs/user-guide/getting-started"
+        },
+        {
+            "name": "Prettier",
+            "description": "An opinionated code formatter; Supports many languages; Integrates with most editors.",
+            "url": "https://prettier.io/docs/en/index.html"
+        },
+        {
+            "name": "lint-staged",
+            "description": " The concept of lint-staged is to run configured linter (or other) tasks on files that are staged in git.",
+            "url": "https://github.com/okonet/lint-staged"
+        },
+        {
+            "name": "Enzyme",
+            "description": "Enzyme is a JavaScript Testing utility for React that makes it easier to test your React Components' output. You can also manipulate, traverse, and in some ways simulate runtime given the output.",
+            "url": "https://enzymejs.github.io/enzyme/"
+        },
+        {
+            "name": "Cypress",
+            "description": "Fast, easy and reliable testing for anything that runs in a browser.",
+            "url": "https://docs.cypress.io/guides/overview/why-cypress.html"
+        },
+        {
+            "name": "Docker",
+            "description": "Docker simplifies and accelerates your workflow, while giving developers the freedom to innovate with their choice of tools, application stacks, and deployment environments for each project.",
+            "url": "https://www.docker.com/get-started"
+        },
+        {
+            "name": "Github Actions",
+            "description": "GitHub Actions makes it easy to automate all your software workflows, now with world-class CI/CD. Build, test, and deploy your code right from GitHub.",
+            "url": "https://docs.github.com/en/actions"
+        }
+    ]
+}

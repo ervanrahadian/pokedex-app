@@ -1,0 +1,29 @@
+{
+    "env": {
+        "node": true,
+        "browser": true,
+        "amd": true
+    },
+    "extends": [
+        "eslint:recommended",
+        "next", 
+        "prettier",
+        "plugin:cypress/recommended"
+    ],
+    "rules": {
+        "react/jsx-no-target-blank": "off",
+        "jsx-a11y/alt-text": "off",
+        "@next/next/no-img-element": "off",
+        "no-redeclare": "off",
+        "no-unused-vars": "off",
+        "no-undef": "off",
+        "@typescript-eslint/ban-ts-comment": "off",
+        "@typescript-eslint/explicit-module-boundary-types": "off",
+        "@typescript-eslint/no-explicit-any": "off",
+        "prefer-destructuring": "off",
+        "import/no-anonymous-default-export": "off",
+        "react-hooks/exhaustive-deps": "off",
+        "react-hooks/rules-of-hooks": "off",
+        "@next/next/link-passhref": "off"
+    }
+}

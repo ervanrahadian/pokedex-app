@@ -1,0 +1,12 @@
+{
+    "welcome-title": "Welcome to Project Test Rey",
+    "welcome-description": "In this test you create a page list and details of each item using ",
+    "welcome-work": "Have a great time doing it!",
+    "requirement-title": "Requirement",
+    "requirement-action": "Start",
+    "requirement-desc-1": "Make a pokemon page list with pagination and action to go to the detail page as attractive as possible",
+    "requirement-desc-2": "Pages made are endeavored to use multiple languages ​​with id / en as the language reference. Example ",
+    "requirement-desc-3": "Using the provided library, for design using Material UI version 4 & HTTP clients using axios can use the provided base",
+    "requirement-desc-4": "Using hooks (reducer) as state management",
+    "requirement-desc-5": "Make the display as attractive as possible / can use reference designs"
+}

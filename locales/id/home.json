@@ -1,0 +1,12 @@
+{
+    "welcome-title": "Selamat Datang di Project Test Rey",
+    "welcome-description": "Pada tes ini Anda membuat sebuah page list and detail dari masing-masing item tersebut dengan menggunakan ",
+    "welcome-work": "Selamat mengerjakan!",
+    "requirement-title": "Persyaratan",
+    "requirement-action": "Mulai",
+    "requirement-desc-1": "Membuat page list pokemon dengan pagination beserta action untuk ke halaman detail",
+    "requirement-desc-2": "Halaman yang dibuat diusahakan menggunakan multi bahasa dengan id / en sebagai acuan bahasa. Contoh ",
+    "requirement-desc-3": "Menggunakan library yang sudah disediakan, untuk design menggunakan Material UI versi 4 & HTTP client menggunakan axios bisa menggunakan base yang sudah disediakan",
+    "requirement-desc-4": "Menggunakan hooks (reducer) sebagai state management",
+    "requirement-desc-5": "Buat tampilan semenarik mungkin / bisa menggunakan referensi design"
+}
